@@ -1,0 +1,2 @@
+Welcome!
+See <a href="/view/test">test</a> page
